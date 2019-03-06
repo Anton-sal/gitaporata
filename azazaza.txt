@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 print("azazazaz");
+
+
+hellow my dear friend
+=======
+print("azazazaz");
+
